@@ -1,0 +1,237 @@
+
+#0# Sunucuyu başlatın
+#1# Sunucuya katılın
+#2# Ayarlar
+#3# Geliştiriciler
+#4# Çıkış
+#5# Devam
+#6# Durdur
+#7# Ayarlar
+#8# Kaydet
+#9# Çıkış
+#10# Yeniden doğ
+#11# Erken Erişim
+#12# Bu oyun henüz hazır değil fakat aktif gelişim sürecinde.Daha fazla bilgi için Steam Topluluğu'nda ki bloğu ziyaret edebilirsiniz.
+#13# Haberler
+#14# Tartışma
+#15# Rehber
+#16# Yapılacaklar
+#17# Emin Misiniz?
+#18# Çıkış
+#19# Geri
+#20# Direkt Bağlan
+#21# Steam'e Bağlan (Yakında)
+#22# Geliştiriciler
+#23# Bu oyun Artaani, Riya ve Romenics takma adlı üç arkadaş tarafında geliştirildi.Daha fazla bilgi için Steam Topluluğu'nda ki bloğu ziyaret edebilirsiniz.
+#24# Kaydet
+#25# Varsayılan
+#26# Uygula
+#27# SES
+#28# Toplam
+#29# Müzik
+#30# OYUN
+#31# Yardım göster
+#32# Zamanı sohbet içinde göster
+#33# Sandbox Modu
+#34# Fare düğmelerini değiştir
+#35# Otomatik kayıt aralığı
+#36# GRAFİKLER
+#37# Tam Ekran
+#38# Doku Kalitesi
+#39# Anti-Aliasing
+#40# V-sync
+#41# Çözünürlük
+#42# Tuş atamak için tuşabasın yada iptal için ESC'ye basın
+#43# Kaydet
+#44# Varsayılan
+#45# KISAYOLLAR
+#46# DÜNYA SEÇ
+#47# İSİM
+#48# KAYIT TARİHİ
+#49# OYUN ZAMANI
+#50# VERSİYON
+#51# DÜNYA OLUŞTUR
+#52# Dünya silmeyi onayla
+#53# Geri
+#54# Sil
+#55# PORT
+#56# Şifre
+#57# MAX OYUNCU
+#58# SİL
+#59# YÜKLE
+#60# YÜKLENİYOR
+#61# BAĞLANIYOR...
+#62# DÜNYA ADI
+#63# PORT
+#64# ŞİFRE
+#65# MAX OYUNCU
+#66# SANDBOX MODU
+#67# İSTASYON SAYISI
+#68# DÜŞMAN SAYISI
+#69# ASTREOİD SAYISI
+#70# Yeni dünya
+#71# GERİ
+#72# OYUNU BAŞLAT
+#73# Sunucuya katılın
+#74# IP
+#75# Port
+#76# Şifre
+#77# Katıl
+#78# Sunucu Seç
+#79# Favorilere ekle
+#80# Sunucu silmeyi onayla
+#81# Geri
+#82# İSİM
+#83# IP
+#84# Port
+#85# Şifre
+#86# Sil
+#87# Katıl
+#88# Kaydet
+#89# Düzenle
+#90# Dil
+#91# Duraklatıldı
+#92# Rot Kilitle
+#93# Pan Sifirla
+#94# Vel. Kilitle
+#95# Izgara
+#96# Ticaret
+#97# İNŞA
+#98# SÖKMEK
+#99# SANDBOX ARAÇLARI
+#100# KAYNAK EKLE
+#101# Oksijen
+#102# Hidrojen
+#103# Xenon
+#104# Roket
+#105# Güç
+#106# Yemek
+#107# Ekip
+#108# YZ
+#109# Seçilen gemiyi klonla
+#110# Grubu dost olarak ayarlayın
+#111# Grubu düşman olarak ayarlayın
+#112# Düşman gemisi oluştur
+#113# Gemiye yz ekle
+#114# Otomatik pilot
+#115# FİZİK
+#116# Seçilen gemiyi sil
+#117# Yörünge mekaniğini kapat
+#118# Yörünge planlayıcı yerleştir
+#119# Moloz atma modu
+#120# Uygula
+#121# At
+#122# Herhangi bir tuşa bas
+#123# Yeni kısayol
+#124# Mesafe
+#125# Bağıl hız
+#126# Oyuncu
+#127# Ping
+#128# Mevcut modüller
+#129# Depolar
+#130# Üretim
+#131# Güç
+#132# Çeşitli
+#133# Silahlar
+#134# Taretler
+#135# İticiler
+#136# Ekip Üyesi Bilgileri
+#137# Sağlık
+#138# Yemek
+#139# Moral
+#140# BAŞLARKEN
+#141# Öğretici henüz hazır değil.Topluluk üyelerinin hazırladığı başlangıç rehberini incelemenizi öneriyoruz
+#142# KILAVUZU AÇ
+#143# TİCARET
+#144# İSİM
+#145# MİKTAR
+#146# FİYAT
+#147# TALEP
+#148# İKMAL
+#149# ÖNCEKİ GEMİ
+#150# SONRAKİ GEMİ
+#151# TOPLAM KÜTLE 
+#152# EYLEMSİZLİK MOMENTİ
+#153# MODÜL KÜTLESİ
+#154# Güç kaynağına bağlı değil
+#155# Güç tüketimi
+#156# Ayırmak
+#157# İliştirmek
+#158# Transfer için sürükleyin
+#159# Sağ Tıklama: Sat
+#160# Satın Al: Knteynırı sürükle
+#161# Transfer için sürükleyin
+#162# Miktarı belirlemek için shift'e basılı tut
+#163# Satın almak için bırak
+#164# Depolama türü uyuşmazlığı (sıvı / katı)
+#165# Ctrl+RMB - SÖKMEK
+#166# Sağ tıklama - Tamir
+#167# Sağ tıklama - İnşaat
+#168# Sağ Tıklama - içeriği göster
+#169# Sağ Tıklama - Kısayol ata
+#170# Kütle
+#171# atmak
+#172# Sağ Tıklama
+#173# Kısayolu sıfırla
+#174# Ctrl + Right click - Sökmek
+#175# Ctrl + Right click - Sökmek
+#176# Karbon
+#177# Alüminyum
+#178# Silikon
+#179# Gümüş
+#180# Titanyum
+#181# Demir
+#182# Kobalt
+#183# Nikel
+#184# Bakır
+#185# Niobium
+#186# Oksijen
+#187# Hidrojen
+#188# Xenon
+#189# Buz
+#190# Fullerite
+#191# Döteryum
+#192# Uranyum
+#193# Roket
+#194# Güç
+#195# Yemek
+#196# Bu isimle bir kaynak yok
+#197# İnşa menüsü açılamıyor
+#198# Geçerli gemide mühendislik bölmesi yok
+#199# Yemek bitti
+#200# Gemide yiyecek bulunamıyor!
+#201# Açlıktan ölüm
+#202# açlıktan öldü!
+#203# Uyarı
+#204# Son komuta modülü sökülemez
+#205# Otomatik hareket Elle kontrol yüzüne durduruldu
+#206# Warp sürücüsü henüz hazır değil
+#207# Ateş edemez
+#208# Roketatar cephane deposuna bağlı değil
+#209# Ateş edemez
+#210# Bağlı depoda cephane yok
+#211# Otomatik pilot - Aktif
+#212# Otomatik pilot - Devredışı
+#213# Gemi seç
+#214# Nesne seşilmedi
+#215# Gemi seç
+#216# Bir nesne seç
+#217# Kısayollar:
+#218# KısayolAdları:
+#219# Sol:
+#220# Sadece sunucu yapabilir
+#221# Oyun kaydedildi
+#222# KAYIT HATASI
+#223# Kayıt iç hata nedeniyle tamamlanamadı.
+#224# Yetersiz kredi
+#225# Gemiler birbirlerine kenetlenmiş olmalı
+#226# Depo boş
+#227# Bu tüccar talep etmiyor
+#228# Satamazsın.Depo dolu
+#229# units of
+#230# karşılığnda satıldı
+#231# units of
+#232# karşılığında satın alındı
+#233# Yetersiz kredi:
+#234# kurtarıldı
+#235# Kurtarmak için yeterli alan yok
